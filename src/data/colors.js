@@ -1,0 +1,21 @@
+export const POKEMON_TYPE_COLORS = {
+  normal: "#a8a878",
+  fighting: "#c03028",
+  flying: "#A890F0",
+  poison: "#a890f0",
+  ground: "#e0c068",
+  rock: "#88a038",
+  bug: "#a8b820",
+  ghost: "#705898",
+  steel: "#b8b8d0",
+  fire: "#fa6c6c",
+  water: "#6890f0",
+  grass: "#48cfb2",
+  electric: "#ffce4b",
+  psychic: "#f85888",
+  ice: "#98d8d8",
+  dragon: "#705848",
+  dark: "#705848",
+  fairy: "#ee99ac",
+  mediocampista: "#aad5e0"
+}
