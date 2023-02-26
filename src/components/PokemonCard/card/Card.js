@@ -1,5 +1,5 @@
 import React from 'react'
-import PokemonImage from '../../pokemonimage/PokemonImage'
+import PokemonImage from '../pokemonimage/PokemonImage'
 import StatusBar from '../statusBar/StatusBar'
 import Type from '../type/Type'
 import {
